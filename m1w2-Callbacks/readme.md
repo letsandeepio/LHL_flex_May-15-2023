@@ -6,17 +6,17 @@ May 27, 2023
 
 Today we covered the following topics:
 
-[] Functions as First-class Objects
--> What is a function?
--> Function Declaration
--> Function Expression
--> Passing by reference
-[] Higher-Order Functions
-[] Callbacks
-[] Single Responsibility Principle
-[] Anonymous & Arrow Functions
-[] Scope Chain
-[] Breakout Exercise - Implement forEachInReverse.js
+- [ ] Functions as First-class Objects
+      [ ]-> What is a function?
+      [ ]-> Function Declaration
+      [ ]-> Function Expression
+      [ ]-> Passing by reference
+- [ ] Higher-Order Functions
+- [ ] Callbacks
+- [] Single Responsibility Principle
+- [ ] Anonymous & Arrow Functions
+- [] Scope Chain
+- [] Breakout Exercise - Implement forEachInReverse.js
 
 # Explore Further On your own
 

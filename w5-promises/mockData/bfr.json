@@ -1,0 +1,101 @@
+{
+  "id": 4,
+  "active": false,
+  "stages": 2,
+  "boosters": 0,
+  "cost_per_launch": 7000000,
+  "success_rate_pct": 0,
+  "first_flight": "2019-12-01",
+  "country": "United States",
+  "company": "SpaceX",
+  "height": {
+    "meters": 106,
+    "feet": 348
+  },
+  "diameter": {
+    "meters": 9,
+    "feet": 30
+  },
+  "mass": {
+    "kg": 4400000,
+    "lb": 9700000
+  },
+  "payload_weights": [
+    {
+      "id": "leo",
+      "name": "Low Earth Orbit",
+      "kg": 150000,
+      "lb": 330000
+    },
+    {
+      "id": "mars",
+      "name": "Mars Orbit",
+      "kg": 150000,
+      "lb": 330000
+    }
+  ],
+  "first_stage": {
+    "reusable": true,
+    "engines": 31,
+    "fuel_amount_tons": 6700,
+    "burn_time_sec": 0,
+    "thrust_sea_level": {
+      "kN": 128000,
+      "lbf": 28775544
+    },
+    "thrust_vacuum": {
+      "kN": 138000,
+      "lbf": 31023634
+    }
+  },
+  "second_stage": {
+    "engines": 6,
+    "fuel_amount_tons": 1100,
+    "burn_time_sec": 0,
+    "thrust": {
+      "kN": 1900,
+      "lbf": 427136
+    },
+    "payloads": {
+      "option_1": "Spaceship",
+      "option_2": "composite fairing",
+      "composite_fairing": {
+        "height": {
+          "meters": null,
+          "feet": null
+        },
+        "diameter": {
+          "meters": null,
+          "feet": null
+        }
+      }
+    }
+  },
+  "engines": {
+    "number": 31,
+    "type": "raptor",
+    "version": "",
+    "layout": null,
+    "engine_loss_max": null,
+    "propellant_1": "liquid oxygen",
+    "propellant_2": "liquid methane",
+    "thrust_sea_level": {
+      "kN": 1700,
+      "lbf": 382175
+    },
+    "thrust_vacuum": {
+      "kN": 1900,
+      "lbf": 427136
+    },
+    "thrust_to_weight": null
+  },
+  "landing_legs": {
+    "number": 4,
+    "material": "carbon fiber"
+  },
+  "wikipedia": "https://en.wikipedia.org/wiki/BFR_(rocket)",
+  "description": "BFR is a privately funded next-generation reusable launch vehicle and spacecraft system developed by SpaceX. It was announced by Elon Musk in September 2017; the first spacecraft prototype was being manufactured as of March 2018 and will begin testing in early 2019. The overall space vehicle architecture includes both launch vehicles and spacecraft that are intended to completely replace all of SpaceX's existing space hardware by the early 2020s as well as ground infrastructure for rapid launch and relaunch, and zero-gravity propellant transfer technology to be deployed in low Earth orbit (LEO). The large payload to Earth orbit of up to 150,000 kg (330,000 lb) makes BFR a super heavy-lift launch vehicle.",
+  "rocket_id": "bfr",
+  "rocket_name": "Big Falcon Rocket",
+  "rocket_type": "rocket"
+}

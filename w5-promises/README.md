@@ -14,9 +14,16 @@ Today we will learn about Promises and have 3 hands-on demos
 
 [x] Demo #2: Let's refactor our SPOS using promises
 
-[ ] Quick overview of wow to run async code in Parallel? (Promise.all, promise.allSettled, Promise.race, promise.any)
+[x] Quick overview of wow to run async code in Parallel? (Promise.all, promise.allSettled, Promise.race, promise.any)
 
-[] Demo #3: Small Information Retrieval System (SIRS)
+[x] Demo #3: Small Information Retrieval System (SIRS)
+
+They key learning outcomes of this lecture are?
+
+1. What are promises and how they're better than callbacks?
+2. Three States of promises
+3. How do you handle promises using `.then`, `.catch` and `.finally`
+4. How do you run async promises in paralellel
 
 # Promises - Quick Introduction
 

@@ -1,0 +1,16 @@
+body {
+  font-family: sans-serif;
+  font-size: xx-large;
+}
+
+#todos {
+  list-style: square;
+}
+
+#new-todo-frm > * {
+  font-size: xx-large;
+} 
+
+#todos li {
+  /* border-bottom: 1px solid grey; */
+}
